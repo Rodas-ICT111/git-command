@@ -1,0 +1,22 @@
+Commonly used commands in Git
+
+How do we bring a repo down to our local machine?
+
+git clone https://github.com/Rodas-ICT111/portal.git
+
+How do we see how things are going in git?
+
+git status 
+
+How do we stage all our files at ones?
+
+git add .
+
+How do I bring all of the staged files into the repo 
+
+git commit -m "Adds files to this branch of repo"
+
+How do we send our server to the server?
+
+git push
+
